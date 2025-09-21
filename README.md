@@ -1,5 +1,5 @@
 # Qwen2.5-Omni 
-# (This is my own fork, to maintain some changes if I make for my project)
+**(This is to maintain the custom modifications if I make for my AV-MI project)**
 <p align="left">
         <a href="README_CN.md">中文</a> &nbsp｜ &nbsp English&nbsp&nbsp
 </p>
